@@ -17,8 +17,8 @@ Kony 2012 is one example of how video can empower people and effect social chang
 The course has been taught as 2 credit pass/fail or 3 credit graded. The difference for the 3 credit graded are:
 
 - Additional weekly readings. These are identified under the **Additional** heading of the **Resources** section for each week. 
-- For weeks 2 through 6 a weekly reaction paper on the resource(s) for that class is added.
-- A Movie Reaction Paper is due during Week 9.
+- For weeks 2 through 6 a [weekly reaction paper](https://github.com/kowalike/lights-camera-activism/blob/master/Course_Information_03_Reading_Reaction_Paper.md) on the resource(s) for that class is added.
+- A [Movie Reaction Paper](https://github.com/kowalike/lights-camera-activism/blob/master/Course_Information_04_Movie_Reaction_Paper.md) is due during Week 9.
 
 Regardless of whether it is a 2 or 3 credits, the course is broken down into the following 3 Units:
 
@@ -28,6 +28,6 @@ Regardless of whether it is a 2 or 3 credits, the course is broken down into the
 
 ## Navigating the Repository
 
-Items with the file name prefix Course_Information include the Syllabus and major assignments such as the Final Project. 
+Items with the file name prefix Course_Information include [the Syllabus](https://github.com/kowalike/lights-camera-activism/blob/master/Course_Information_01_Syllbaus.md) and major assignments such as [the Final Project](https://github.com/kowalike/lights-camera-activism/blob/master/Course_Information_02_Final_Project_Instructions.md). 
 
 Each of the Week files contain the learning objectives, resources, discussion questions, in class activities and homework assignments (if any).
